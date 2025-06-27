@@ -28,7 +28,7 @@ export default class HomeCadastro extends Component<props> {
                             📦 Cadastro de Produto
                     </li>
                     <li className="list-group-item" 
-                        onClick={(e) => this.props.seletorView('CadastroCliente', e)}
+                        onClick={(e) => this.props.seletorView('CadastroServico', e)}
                         style={{ cursor: 'pointer' }}>
                             🛠️ Cadastro de Serviço
                     </li>
