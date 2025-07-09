@@ -7,4 +7,4 @@
 
 ### Como Rodar
 Abra o diretório desse projeto em algum terminal e digite os comandos `npm install` e `npm start`.
-Após isso, acesse [http://localhost:3000]('http://localhost:3000').
+Após isso, acesse [http://localhost:3000](http://localhost:3000).
