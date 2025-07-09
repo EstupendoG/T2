@@ -1,5 +1,5 @@
 # Rodando o Projeto
----
+
 ## Versões de Pacotes
 - **Node:** 18.20.4  
 - **React:** 18.2.0  
